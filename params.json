@@ -1,0 +1,6 @@
+{
+  "name": "L-systems",
+  "tagline": "Lindenmayer Systems are visual representations of a set of instructions to follow and from these instructions varying figures are created. This algorithm is commonly used for the study of artifical life programming.",
+  "body": "L-SYSTEMS\r\n\r\nL-Systems were considered as mathematical theory of a plant development. The growth and topology of a plant and its relations between cells or larger plant modules. One concept of L-System was recursive and rewriting methods. It starts on it's axiom or the seed and then the generator.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
