@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Algae", "Algae\Algae.pyproj", "{68BE18E9-C3CC-4F36-BB9A-0BF245C93027}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Koch Curve", "Koch Curve\Koch Curve.pyproj", "{FDA41538-5F90-4D19-937D-A52FE2264365}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sierpinski Triangle", "Sierpinski Triangle\Sierpinski Triangle.pyproj", "{69A1D178-B90C-4C4A-8C15-82432955FB49}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dragon Curve", "Dragon Curve\Dragon Curve.pyproj", "{8857CF2B-76E2-43A9-B794-28622D873B43}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Fractal Plant", "Fractal Plant\Fractal Plant.pyproj", "{48EED4F8-FF4D-44A2-87E8-AA79B937EB88}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "L-Systems", "L-Systems\L-Systems.pyproj", "{B8B1D9E9-7B1B-44EE-8206-BC1BB8AF8C4B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Fractal Tree", "Fractal Tree\Fractal Tree.pyproj", "{AD46A5D5-BCB8-4AD8-B671-A778E1804AF1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pythagoras Tree", "Pythagoras Tree\Pythagoras Tree.pyproj", "{0EE2B268-22E6-40C1-8831-7A91F0DA46AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68BE18E9-C3CC-4F36-BB9A-0BF245C93027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BE18E9-C3CC-4F36-BB9A-0BF245C93027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA41538-5F90-4D19-937D-A52FE2264365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA41538-5F90-4D19-937D-A52FE2264365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A1D178-B90C-4C4A-8C15-82432955FB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A1D178-B90C-4C4A-8C15-82432955FB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8857CF2B-76E2-43A9-B794-28622D873B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8857CF2B-76E2-43A9-B794-28622D873B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EED4F8-FF4D-44A2-87E8-AA79B937EB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EED4F8-FF4D-44A2-87E8-AA79B937EB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B1D9E9-7B1B-44EE-8206-BC1BB8AF8C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B1D9E9-7B1B-44EE-8206-BC1BB8AF8C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD46A5D5-BCB8-4AD8-B671-A778E1804AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD46A5D5-BCB8-4AD8-B671-A778E1804AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE2B268-22E6-40C1-8831-7A91F0DA46AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE2B268-22E6-40C1-8831-7A91F0DA46AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
